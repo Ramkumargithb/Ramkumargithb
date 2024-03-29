@@ -34,33 +34,16 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-<svg width="760" height="120" viewBox="0 0 760 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background -->
-    <rect x="0" y="0" width="760" height="120" fill="black"/>
-    <!-- Snake Body -->
-    <rect x="10" y="10" width="10" height="10" fill="purple"/>
-    <rect x="20" y="10" width="10" height="10" fill="purple"/>
-    <!-- Add more rectangles for the snake body as needed -->
-    <!-- This is a basic example, you'll need to add more rectangles to represent the snake -->
-</svg>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ramkumargithb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramkumargithb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramkumargithb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <br/><br/><br/>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=ramkumargithb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<hr/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Ramkumargithb.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Ramkumargithb.vercel.app/api?username=Ramkumargithb&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Ramkumargithb.vercel.app/api/top-langs/?username=Ramkumargithb&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/><br/>
 
-<hr/>
+
