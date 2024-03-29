@@ -41,8 +41,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ramkumargithb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Ramkumargithb/Ramkumargithb//blob/output/github-contribution-grid-snake.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
