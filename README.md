@@ -37,8 +37,16 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ramkumargithb/output/github-contribution-grid-snake.svg" />
-  
+<svg width="760" height="120" viewBox="0 0 760 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect x="0" y="0" width="760" height="120" fill="black"/>
+    <!-- Snake Body -->
+    <rect x="10" y="10" width="10" height="10" fill="purple"/>
+    <rect x="20" y="10" width="10" height="10" fill="purple"/>
+    <!-- Add more rectangles for the snake body as needed -->
+    <!-- This is a basic example, you'll need to add more rectangles to represent the snake -->
+</svg>
+
   <br/><br/><br/>
 </div>
 
