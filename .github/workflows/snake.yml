@@ -13,11 +13,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
+      # Ensure the build directory exists
+      - name: Create Build Directory
+        run: mkdir -p dist
+
       - name: Generate the Snake
         uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: Ramkumargithb
+          output_dir: dist
 
       - name: Show Build Status
         run: git status
