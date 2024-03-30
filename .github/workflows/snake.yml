@@ -33,8 +33,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          target_branch: output
-          build_dir: dist
-          jekyll: false
+          target_branch: output  
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
