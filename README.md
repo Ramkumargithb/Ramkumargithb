@@ -26,7 +26,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,ansible,html,css,vscode,java,bash,docker,jenkins,github,git,prometheus,replit,ubuntu,kali,windows,mint,linux," />
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,ansible,vscode,bash,docker,jenkins,github,git,prometheus,replit,ubuntu,kali,windows,linux," />
 
 </div>
 
